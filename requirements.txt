@@ -19,7 +19,7 @@ colorama==0.3.9
 coverage==5.0.3
 cryptography==2.9
 distlib==0.3.0
-Django==3.0.3
+Django==3.0.14
 django-crispy-forms==1.8.1
 django-jenkins==0.110.0
 docker==4.2.0
